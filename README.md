@@ -1,2 +1,2 @@
 # support
-information about yankee
+support for yankee organization
